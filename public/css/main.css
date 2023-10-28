@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap");
+
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.detail {
+    width: 32rem;
+}
+
+.card-header,
+.form-label {
+    font-weight: bold;
+}
+
+.font-family {
+    font-family: "Sedgwick Ave Display", cursive;
+}
+
+.background-home {
+    background-image: url("/src/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.logo-komik {
+    width: 200px;
+}
